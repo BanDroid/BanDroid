@@ -22,7 +22,7 @@ just call me **Ban** honestly.
 
 📚 I'm currently learning:
 - Advanced Jetpack components (Navigation, DataStore, WorkManager)
-- OAuth + Credential authentication with **NextAuth.js**
+- OAuth + Credential authentication with **Auth.js**
 - Performance optimization in **Next.js 15**
 
 ---
