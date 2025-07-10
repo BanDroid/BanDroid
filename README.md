@@ -8,22 +8,12 @@ just call me **Ban** honestly.
 
 🌱 I started learning programming on a **mobile phone** — building Android apps with Java and exploring the web with Node.js.
 
-🚀 I'm currently working on:
-- ✍️ An Anime & Comic streaming app using **Next.js**, **PocketBase**, and **TailwindCSS**
-- 📱 Android apps with **MVVM** architecture
-- 🌐 Fullstack apps with **Node.js**, **Next.js**, and **Prisma**
-
 🛠️ Tech I enjoy:
 - **Languages**: Java, Kotlin, TypeScript, JavaScript, Python
 - **Frontend**: React, TailwindCSS, Material UI, Alpine.js, DaisyUI
 - **Backend**: Node.js, Next.js, FastAPI, PocketBase
-- **Mobile**: Android (XML)
+- **Mobile**: Android (Kotlin, Java, XML)
 - **Tools**: Git, GitHub, VS Code, Termux
-
-📚 I'm currently learning:
-- Advanced Jetpack components (Navigation, DataStore, WorkManager)
-- OAuth + Credential authentication with **Auth.js**
-- Performance optimization in **Next.js 15**
 
 ---
 
